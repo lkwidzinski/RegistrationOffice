@@ -5,9 +5,6 @@ import registerOffice.businessObjects.persons.*;
 
 public class Main {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		Person p = new Person("Adam");
